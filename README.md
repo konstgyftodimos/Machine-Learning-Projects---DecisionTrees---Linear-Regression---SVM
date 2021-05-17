@@ -24,4 +24,8 @@ Data after PCA (2 features):
 
 # Decision Trees
 
+Build a decision tree classifier, with minimum_sample_leaves = 15 to avoid overfitting. 
+An overview of what data looks like can be described by the scatter matrix below:
+
+![](images/scatterplot_dt.png)
 
