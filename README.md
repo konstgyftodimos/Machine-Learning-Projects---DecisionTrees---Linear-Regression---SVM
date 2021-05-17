@@ -16,16 +16,16 @@ Before applying Logistic Regression i need to seperate my data. Due to the high 
 
 Data before PCA (30 features):
 
-![](images/logr_data.png)
+![](images/logr_data.png =100x20)
 
 Data after PCA (2 features):
 
-![](images/logr_data_after_pca.png)
+![](images/logr_data_after_pca.png =100x20)
 
 # Decision Trees
 
 Build a decision tree classifier, with minimum_sample_leaves = 15 to avoid overfitting. 
 An overview of what data looks like can be described by the scatter matrix below:
 
-![](images/scatterplot_dt.png)
+![](images/scatterplot_dt.png =100x20)
 
