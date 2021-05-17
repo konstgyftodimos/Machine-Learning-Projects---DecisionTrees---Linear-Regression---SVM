@@ -10,9 +10,9 @@ After spitting the features and pre-processing the data i visualized the data an
 3. polynomial of 3rd order
 4. RBF
 
-# Decision Trees 
+# Logistic Regression 
 
-Due to the high number of features in the dataset i reduced the dimensionality of highly correlated features with PCA.
+Before applying Logistic Regression i need to seperate my data. Due to the high number of features in the dataset i reduced the dimensionality of highly correlated features with PCA.
 
 Data before PCA (30 features):
 
@@ -21,3 +21,7 @@ Data before PCA (30 features):
 Data after PCA (2 features):
 
 ![](images/logr_data_after_pca.png)
+
+# Decision Trees
+
+
