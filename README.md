@@ -16,11 +16,11 @@ Before applying Logistic Regression i need to seperate my data. Due to the high 
 
 Data before PCA (30 features):
 
-![](images/logr_data.png)
+![](images/logr_data.png=250x250)
 
 Data after PCA (2 features):
 
-![](images/logr_data_after_pca.png)
+![](images/logr_data_after_pca.png=250x250)
 
 # Decision Trees
 
